@@ -1,0 +1,208 @@
+Dados recebidos: {"usuario":"maserati","senha":"maserati2264"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati2264"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati2264"}
+Dados recebidos: {"usuario":"maserati","senha":"22641806"}
+Dados recebidos: {"usuario":"maserati","senha":"22641806"}
+Dados recebidos: {"usuario":"maserati","senha":"22641806"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"maserati","senha":"22641806"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati2264"}
+Dados recebidos: {"usuario":"maserati","senha":"22641806"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"baby","senha":"baby224"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maseat","senha":"dsad"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"teste","senha":"test"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: null
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29, Data de Expiração: 2090-12-25
+Dias Restantes Calculados: 24132
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: null
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: null
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: null
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: null
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Dados recebidos: null
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29, Data de Expiração: 2090-12-25
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29, Data de Expiração: 2090-12-25
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29, Data de Expiração: 2090-12-25
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29, Data de Expiração: 2090-12-25
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29, Data de Expiração: 2090-12-25
+Dias Restantes Calculados: 24132
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29, Data de Expiração: 2090-12-25
+Dias Restantes Calculados: 24132
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29, Data de Expiração: 2090-12-25
+Dias Restantes Calculados: 24132
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29, Data de Expiração: 2090-12-25
+Dias Restantes Calculados: 24132
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29, Data de Expiração: 2025-01-25
+Dias Restantes Calculados: 57
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29, Data de Expiração: 2025-01-25
+Dias Restantes Calculados: 57
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29, Data de Expiração: 2025-01-25
+Dias Restantes Calculados: 57
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29, Data de Expiração: 2025-01-25
+Dias Restantes Calculados: 57
+Dados recebidos: null
+Dados recebidos: null
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29, Data de Expiração: 2025-01-25
+Dias Restantes Calculados: 57
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29, Data de Expiração: 2025-01-25
+Dias Restantes Calculados: 57
